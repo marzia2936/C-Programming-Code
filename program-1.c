@@ -23,6 +23,12 @@ if(y<0){
     k=1/k;
 }
 printf("Value=%d",k);
+//Marzia
+    // true if number is less than 0
+    if (int number < 0) {
+        printf("You entered %d.\n", number);
+    }
 
+    printf("The if statement is easy.");
 
 }
