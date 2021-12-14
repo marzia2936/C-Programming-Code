@@ -28,7 +28,7 @@ printf("Value=%d",k);
     if (int number < 0) {
         printf("You entered %d.\n", number);
     }
-
+// print
     printf("The if statement is easy.");
 
 }
