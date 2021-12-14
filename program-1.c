@@ -22,7 +22,7 @@ while(k!=0){
 if(y<0){
     k=1/k;
 }
-printf("Value=%d",k);
+
 
 
 }
